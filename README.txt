@@ -11,3 +11,45 @@ It said it was still correct, but the only way which is common in this type of c
 I added one <tr> row, and two <td> to make that sort of alignment work without CSS.
 
 -- Sherif.
+
+ChatGPT-5o.
+Prompt: ‘‘What or how exactly is ‘‘span’’ and ‘‘required’’ used, can you give examples?’’
+It is apparently used right inside <label> with ‘‘class = "required"’’ which makes sense.
+
+-- Sherif.
+
+ChatGPT-5o.
+Prompt: ‘‘How does ARIA work in forms? How is it even linked to <span>?’’
+The answer is very simple... ids. The name of the ‘‘describedby’’ linked to id in span.
+
+-- Sherif.
+
+ChatGPT-5o.
+Prompt: ‘‘Is <div> supposed to be in or between forums, and why... example also.’’
+Yes, in, not between. It is a very bad idea to place it between.
+
+-- Sherif.
+
+ChatGPT-5o.
+Prompt: ‘‘Is tab-index 0-index?’’
+No.
+
+-- Sherif.
+
+ChatGPT-5o.
+Prompt: ‘‘What is ‘role’ and is it important?’’
+Eh, yes and no. It is good-to-have, but W3C complains about it apparently.
+
+ChatGPT-5o.
+Prompt: ‘‘Is nesting field-set allowed?’’
+Yes.
+
+ChatGPT-5o.
+Prompt: ‘‘Can you replicate this for me, since typing this is exhausting.
+<optgroup label="Faculty of Engineering">
+    <option value="Computer Science">Computer Science</option>
+    <option value="Information Technology">Information Technology</option>
+    <option value="Software Engineering">Software Engineering</option>
+    <option value="Computer Engineering">Computer Engineering</option>
+</optgroup>’’
+I had it repeat some text for me since filling it in manually was exhausting and is very error prone to typos and human error.
