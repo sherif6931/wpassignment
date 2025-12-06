@@ -40,9 +40,13 @@ ChatGPT-5o.
 Prompt: ‘‘What is ‘role’ and is it important?’’
 Eh, yes and no. It is good-to-have, but W3C complains about it apparently.
 
+-- Sherif.
+
 ChatGPT-5o.
 Prompt: ‘‘Is nesting field-set allowed?’’
 Yes.
+
+-- Sherif.
 
 ChatGPT-5o.
 Prompt: ‘‘Can you replicate this for me, since typing this is exhausting.
@@ -53,3 +57,5 @@ Prompt: ‘‘Can you replicate this for me, since typing this is exhausting.
     <option value="Computer Engineering">Computer Engineering</option>
 </optgroup>’’
 I had it repeat some text for me since filling it in manually was exhausting and is very error prone to typos and human error.
+
+-- Sherif.
